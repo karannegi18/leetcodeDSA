@@ -16,9 +16,11 @@ just sharing my progress in DSA
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karannegi18/leetcodeDSA/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karannegi18/leetcodeDSA/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
