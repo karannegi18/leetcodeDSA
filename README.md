@@ -27,10 +27,12 @@ just sharing my progress in DSA
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,4 +41,13 @@ just sharing my progress in DSA
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
