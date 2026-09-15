@@ -29,11 +29,13 @@ just sharing my progress in DSA
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ just sharing my progress in DSA
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +56,8 @@ just sharing my progress in DSA
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
