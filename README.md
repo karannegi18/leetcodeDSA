@@ -16,6 +16,7 @@ just sharing my progress in DSA
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karannegi18/leetcodeDSA/tree/main/0035-search-insert-position/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karannegi18/leetcodeDSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ just sharing my progress in DSA
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karannegi18/leetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -64,6 +66,7 @@ just sharing my progress in DSA
 | ------- |
 | [0100-same-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karannegi18/leetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/karannegi18/leetcodeDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -89,6 +92,7 @@ just sharing my progress in DSA
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karannegi18/leetcodeDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -111,4 +115,8 @@ just sharing my progress in DSA
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karannegi18/leetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karannegi18/leetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
